@@ -2,7 +2,7 @@
 
 AutoBill AI is an intelligent checkout automation system designed to eliminate long billing queues in retail stores. The system uses a Raspberry Pi-based embedded platform integrated with AI-powered product recognition and automated billing to provide a fast, seamless, and contactless shopping experience.
 
-✨ Key Features
+✨ Key Features:
 .Instant product scanning and billing
 .AI-based product identification
 .Automated checkout process
@@ -12,7 +12,7 @@ AutoBill AI is an intelligent checkout automation system designed to eliminate l
 .Secure and reliable payment workflow
 .Faster checkout compared to traditional billing systems
 
-🛠️ Technologies Used
+🛠️ Technologies Used:
 Hardware: Raspberry Pi
 Programming Languages: Python, JavaScript
 Frontend: React.js
@@ -21,7 +21,7 @@ Database: MongoDB
 AI/ML: Computer Vision & Product Recognition
 Communication: IoT-based data transfer
 
-🏗️ System Architecture
+🏗️ System Architecture:
 Product is placed for scanning.
 AI model identifies the product.
 Raspberry Pi processes the data.
@@ -29,14 +29,14 @@ Product details are sent to the backend.
 Bill is generated automatically.
 Customer completes checkout instantly.
 
-🎯 Objectives
+🎯 Objectives:
 Reduce customer waiting time.
 Automate the billing process.
 Improve retail store efficiency.
 Provide a smart shopping experience.
 Minimize human intervention and billing errors.
 
-📈 Future Enhancements
+📈 Future Enhancements:
 QR code and UPI payment integration.
 Advanced inventory management.
 Customer purchase analytics.
